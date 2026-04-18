@@ -22,6 +22,19 @@ Gaps are flagged honestly. Nothing is invented.
 
 ---
 
+## How to install it on Claude.ai
+
+1. On this GitHub page, click the green **Code** button → **Download ZIP**
+2. Open Claude.ai and click your profile icon in the top right
+3. Go to **Settings → Features → Skills**
+4. Click **+** then **+ Create skill**
+5. Upload the ZIP file you downloaded
+6. Toggle the skill on — it will now be available in your conversations
+
+> **Note:** Make sure **Code execution** is enabled in Settings → Capabilities, otherwise the skill won't run.
+
+---
+
 ## How to use it
 
 ### Option 1 — Paste into Claude directly
